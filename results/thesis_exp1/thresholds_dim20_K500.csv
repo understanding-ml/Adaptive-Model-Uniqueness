@@ -1,0 +1,4 @@
+threshold_name,quantile,threshold_value,n_points,dim,K,R,source
+q95,0.95,0.8743969977533655,5500,20,500,3.0,pooled_unique0_search_best_residual
+q99,0.99,0.8743969977533655,5500,20,500,3.0,pooled_unique0_search_best_residual
+random_k500,,4.506692323703985,5,20,500,3.0,random_unique1_final_best_residual_mean

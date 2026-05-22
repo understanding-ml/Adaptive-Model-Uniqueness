@@ -1,0 +1,34 @@
+Seed,HoldoutTextIndex,Dose,ThetaRank,Residual,TargetOutput,PeerMixOutput,Model,Group,Method,SelectedTopKDoses,PointwiseType,ValidationMode,SourceTextIndex,SourceDose,PromptFamily
+4,45,19.0,1,0.2873805745992053,0.3285650610923767,0.615945635691582,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,20.0,1,0.2741411405129571,0.36038264632225037,0.6345237868352075,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,21.0,1,0.2216589213895711,0.39384445548057556,0.6155033768701467,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,22.0,1,0.2828089141325305,0.3333856761455536,0.6161945902780841,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,23.0,1,0.283604528339356,0.3312605023384094,0.6148650306777654,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,24.0,1,0.3077760437942033,0.3050542175769806,0.6128302613711839,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,25.0,1,0.12742091125553523,0.49431946873664856,0.6217403799921838,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,26.0,1,0.044668578060479525,0.5827364921569824,0.627405070217462,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,27.0,1,0.17382298978609023,0.4403381943702698,0.61416118415636,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,29.0,1,0.46045107346756453,0.16995809972286224,0.6304091731904268,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_theta_specific,family,45,28.0,attention_shift
+4,45,29.0,1,0.46045107346756453,,,Architectural Divergence (RoBERTa),Low Redundancy,JointPairUCB,28.0,family_max_per_pair,family,45,28.0,attention_shift
+4,38,19.0,1,8.591148903391854e-10,0.3123209774494171,0.312320978308532,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,20.0,1,1.8846962185348204e-09,0.12319369614124298,0.12319369425654676,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,21.0,1,4.59457771828653e-09,0.695409893989563,0.6954098893949853,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,23.0,1,1.2258201120829426e-09,0.6893544793128967,0.6893544780870766,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,24.0,1,1.1764193508234655e-09,0.3046080768108368,0.30460807563441744,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,25.0,1,1.895229140291832e-09,0.25479352474212646,0.2547935228468973,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,26.0,1,8.784845628717619e-10,0.41148361563682556,0.4114836165153101,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,27.0,1,1.727746667956609e-09,0.41535308957099915,0.4153530878432525,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,28.0,1,2.1229123459143295e-09,0.20579524338245392,0.20579524125954157,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,29.0,1,3.5766020561878165e-09,0.10908741503953934,0.10908741146293728,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_theta_specific,family,38,22.0,attention_shift
+4,38,21.0,1,4.59457771828653e-09,,,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,22.0,family_max_per_pair,family,38,22.0,attention_shift
+4,34,19.0,1,0.01954453526843654,0.022228525951504707,0.041773061219941246,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,20.0,1,0.5630838914149822,0.6204162836074829,0.05733239219250074,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,21.0,1,0.017680329012924628,0.15480433404445648,0.1724846630573811,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,22.0,1,0.4830579134138937,0.6386833786964417,0.15562546528254792,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,23.0,1,0.4519098282247003,0.6089208722114563,0.15701104398675597,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,24.0,1,0.6010745242910697,0.7305842638015747,0.129509739510505,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,25.0,1,0.618829031719092,0.7370734810829163,0.1182444493638243,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,27.0,1,0.7833603932978673,0.9184647798538208,0.13510438655595347,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,28.0,1,0.3129516907727967,0.4187120199203491,0.10576032914755237,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,29.0,1,0.6694505614691293,0.8025676608085632,0.133117099339434,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_theta_specific,family,34,26.0,attention_shift
+4,34,27.0,1,0.7833603932978673,,,Parametric Divergence (Finetuned),Uniqueness,JointPairUCB,26.0,family_max_per_pair,family,34,26.0,attention_shift

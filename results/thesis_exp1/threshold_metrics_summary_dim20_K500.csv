@@ -1,0 +1,4 @@
+method,label,unique,threshold_name,reached_fraction,mean_first_query_if_reached,threshold_value,median_first_query_if_reached,suffix,mean_final_best_residual,std_final_best_residual,n_seeds,dim,K,R
+exp15,Random,1,random_k500,0.4,221.0,4.506692323703985,221.0,,4.506692323703985,0.5525809012956127,5,20,500,3.0
+exp18,CMA-ES,1,random_k500,1.0,54.6,4.506692323703985,52.0,,7.179823792656753,0.17609358094973032,5,20,500,3.0
+exp18,Robust CMA,1,random_k500,1.0,255.0,4.506692323703985,255.0,_rep5_axis0_srob0p2_lam0p3,5.832977236078113,0.49696358524324585,5,20,500,3.0

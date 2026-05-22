@@ -1,0 +1,16 @@
+unique,dim,repeat_evals,sigma_rob,lam,robust_axis_idx,robust_score,K,R,seed,baseline_disco_distance,max_residual,total_attempts,best_x_path
+1,20,1,0.05,0.3,0,penalty,200,3.0,0,32.48590282084546,6.344133219257254,200,results/tables/exp18_best_x_dim20_K200_R3.0_seed0_unique1.npy
+1,20,1,0.05,0.3,0,penalty,200,3.0,1,30.592538039559333,6.436629722541058,200,results/tables/exp18_best_x_dim20_K200_R3.0_seed1_unique1.npy
+1,20,1,0.05,0.3,0,penalty,200,3.0,2,34.8880027344003,6.485303868856922,200,results/tables/exp18_best_x_dim20_K200_R3.0_seed2_unique1.npy
+1,20,1,0.05,0.3,0,penalty,200,3.0,3,35.808747298028216,6.44803907223962,200,results/tables/exp18_best_x_dim20_K200_R3.0_seed3_unique1.npy
+1,20,1,0.05,0.3,0,penalty,200,3.0,4,30.072377712852138,5.60288685976449,200,results/tables/exp18_best_x_dim20_K200_R3.0_seed4_unique1.npy
+1,20,1,0.05,0.3,0,penalty,500,3.0,0,33.45939984508485,7.104391595149428,500,results/tables/exp18_best_x_dim20_K500_R3.0_seed0_unique1.npy
+1,20,1,0.05,0.3,0,penalty,500,3.0,1,33.707389603619,7.4302578666703,500,results/tables/exp18_best_x_dim20_K500_R3.0_seed1_unique1.npy
+1,20,1,0.05,0.3,0,penalty,500,3.0,2,35.07064435182525,7.227068185577984,500,results/tables/exp18_best_x_dim20_K500_R3.0_seed2_unique1.npy
+1,20,1,0.05,0.3,0,penalty,500,3.0,3,35.29691183700686,7.241484872515692,500,results/tables/exp18_best_x_dim20_K500_R3.0_seed3_unique1.npy
+1,20,1,0.05,0.3,0,penalty,500,3.0,4,31.668907381023562,6.895916443370365,500,results/tables/exp18_best_x_dim20_K500_R3.0_seed4_unique1.npy
+1,20,1,0.05,0.3,0,penalty,1000,3.0,0,33.327470819349976,7.21955011407858,1000,results/tables/exp18_best_x_dim20_K1000_R3.0_seed0_unique1.npy
+1,20,1,0.05,0.3,0,penalty,1000,3.0,1,32.08157061064841,7.253443484504315,1000,results/tables/exp18_best_x_dim20_K1000_R3.0_seed1_unique1.npy
+1,20,1,0.05,0.3,0,penalty,1000,3.0,2,34.24367834059571,7.308812545232448,1000,results/tables/exp18_best_x_dim20_K1000_R3.0_seed2_unique1.npy
+1,20,1,0.05,0.3,0,penalty,1000,3.0,3,32.85482917398145,7.1584725127228515,1000,results/tables/exp18_best_x_dim20_K1000_R3.0_seed3_unique1.npy
+1,20,1,0.05,0.3,0,penalty,1000,3.0,4,34.84432695333357,7.528386708087534,1000,results/tables/exp18_best_x_dim20_K1000_R3.0_seed4_unique1.npy

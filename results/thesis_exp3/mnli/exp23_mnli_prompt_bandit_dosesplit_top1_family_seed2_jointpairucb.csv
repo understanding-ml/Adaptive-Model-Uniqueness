@@ -1,0 +1,121 @@
+Dose,PIER,BestPIER,Count,Model,Group,Method
+0.0,,,0,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+1.0,0.23131792454952405,0.5187661794762651,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+2.0,0.26097660783012255,0.406233006485233,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+3.0,0.056752503967152444,0.12348913239242298,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+4.0,0.20190926294497694,0.27518681143932555,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+5.0,0.36660000869510284,0.7029478814492521,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+6.0,0.34423283425056966,0.6690864659614119,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+7.0,0.44970752846684875,0.659507147836174,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+8.0,0.10650535549092259,0.15548928921451943,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+9.0,0.2904123085840398,0.3462829474608299,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+10.0,0.05487552096479509,0.10095040478830308,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+11.0,0.28897855517570054,0.5454541578224227,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+12.0,0.2461214957749925,0.5212427008889438,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+13.0,0.21012701487405971,0.32948184793283974,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+14.0,0.06314482918921775,0.11041972567989322,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+15.0,0.28451453513857516,0.5466291916674171,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+16.0,0.31087040757723416,0.49949622402953026,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+17.0,0.2021029192424435,0.41385333344456554,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+18.0,0.1677413552962446,0.34929917086587714,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+19.0,0.05141112532062012,0.103812256284331,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+20.0,0.3598974462542975,0.6313965281758873,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+21.0,0.362637744508336,0.6593932446038848,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+22.0,0.1710431365504178,0.29767331270366915,6,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+23.0,0.2760863656353177,0.3133063260973966,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+24.0,0.15918479462938623,0.29009782278555396,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+25.0,0.10292430272165998,0.12536817588218108,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+26.0,0.37919473562881867,0.6454510098596946,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+27.0,0.14580662206052364,0.1474100448141541,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+28.0,0.11379453603208856,0.12351117524984279,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+29.0,0.40845965974095233,0.6940872712358566,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+30.0,0.2863935992624078,0.4578416296500799,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+31.0,0.2924659412933261,0.4369377641567272,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+32.0,0.3395363954701617,0.39627286720473953,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+33.0,0.19797146759224798,0.2678358227461397,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+34.0,0.08916184267160526,0.1453623829492362,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+35.0,0.12321963380153894,0.16786732402606197,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+36.0,0.3630742690050811,0.6498123982832009,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+37.0,0.3607066322629696,0.5352345590113738,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+38.0,0.1299410736641763,0.14733836684731094,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+39.0,0.2422345991486733,0.4224599077329829,4,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB
+0.0,,,0,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+1.0,9.30032133597547e-09,1.9308886711755235e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+2.0,9.507426791156848e-09,2.175584712382772e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+3.0,9.839048979633919e-09,2.1935066207845466e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+4.0,9.727888968894908e-09,2.2086815709698726e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+5.0,9.591393674371803e-09,2.1941939820635525e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+6.0,9.592589658800194e-09,2.197411619331291e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+7.0,9.218484616861181e-09,1.8721276529021225e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+8.0,9.39233927814189e-09,2.1801164540313778e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+9.0,9.684750008319884e-09,2.2118914699831294e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+10.0,9.765262346941745e-09,2.1946447881227016e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+11.0,9.817160942388973e-09,2.2284781575621082e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+12.0,9.778690145672888e-09,2.197888493427058e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+13.0,9.69388254347045e-09,2.1980703923674128e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+14.0,9.440516131779703e-09,2.1801215832617515e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+15.0,9.642874150503819e-09,2.1995322674328577e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+16.0,9.726964760846854e-09,2.2209817651663855e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+17.0,9.746532152824413e-09,2.1862451959897555e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+18.0,9.899826751771923e-09,2.183528313715044e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+19.0,9.761042106248377e-09,2.1962017537902057e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+20.0,9.821627252523205e-09,2.2108256336750287e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+21.0,9.7078540229704e-09,2.2022475509864137e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+22.0,9.504434635443834e-09,2.1787925796878937e-08,6,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+23.0,1.3102392555901926e-08,2.1718249754165697e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+24.0,1.3274971946784092e-08,2.196737602933041e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+25.0,1.3372657507596322e-08,2.212557725922437e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+26.0,1.3626929521413922e-08,2.2171353530886506e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+27.0,1.3295110315838035e-08,2.186136016657514e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+28.0,1.3150768566998206e-08,2.1734018695873658e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+29.0,1.3398561493800643e-08,2.193737469458057e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+30.0,1.3458220828564682e-08,2.1880927403294947e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+31.0,1.3371526629002428e-08,2.1947025530266728e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+32.0,1.3380095012418408e-08,2.1995210874869997e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+33.0,1.3086734334654543e-08,2.1607509337329134e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+34.0,1.3258878399499338e-08,2.1963165397487217e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+35.0,1.3433350593786836e-08,2.2148781697595155e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+36.0,1.3586736422564749e-08,2.20716479537586e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+37.0,1.3466449795985352e-08,2.2006959143894278e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+38.0,1.2956045768782593e-08,2.1500346614189425e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+39.0,1.3529179474641717e-08,2.189292414023214e-08,4,Perfect Redundancy (Clone),High Redundancy,JointPairUCB
+0.0,,,0,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+1.0,0.13484279018910958,0.17858219514770715,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+2.0,0.21279015240067112,0.31336696003035514,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+3.0,0.20018460299741014,0.3871089749497293,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+4.0,0.47131171665570387,0.5586178787365926,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+5.0,0.2842103038087643,0.3245125038300083,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+6.0,0.3368858095432807,0.39522541317783305,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+7.0,0.4199128957296157,0.7078203859788177,7,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+8.0,0.15385324214894489,0.16168503427590142,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+9.0,0.3344856315642482,0.3446653966125157,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+10.0,0.20684028465421248,0.3327498579156696,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+11.0,0.2805920290751381,0.5048650807106023,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+12.0,0.33689702252973436,0.5477060701962958,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+13.0,0.25317264793476485,0.4026687512193058,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+14.0,0.2071580692368853,0.29152279127493286,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+15.0,0.3161755284881607,0.45538140182462994,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+16.0,0.37944613350489015,0.4752955762458402,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+17.0,0.3452083996166184,0.4779576975049177,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+18.0,0.2917655113212441,0.35304205870395755,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+19.0,0.1986774987198527,0.2442286318002047,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+20.0,0.3676313246879694,0.4440395378591604,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+21.0,0.3253760068520729,0.4129524160387238,6,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+22.0,0.18650981046232804,0.21464003675975885,5,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+23.0,0.372043166700981,0.5495162777262598,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+24.0,0.47897590074296015,0.6688247592091372,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+25.0,0.30274920051125065,0.4797865902953222,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+26.0,0.3988442409630032,0.47622469042938687,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+27.0,0.2674382881936647,0.2704671379149588,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+28.0,0.19358841915447167,0.2851379360773615,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+29.0,0.26076801867521976,0.3619871377860704,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+30.0,0.3405684593549771,0.3923156215827838,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+31.0,0.4277903042799134,0.44018723657995384,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+32.0,0.4372425778723604,0.47907962222341716,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+33.0,0.3414857262761247,0.6295262875577603,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+34.0,0.39205535694712224,0.6187383302014958,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+35.0,0.13353686666223563,0.1497744610393773,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+36.0,0.35303853279005254,0.44038325770259645,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+37.0,0.21140785418934532,0.24144674172997294,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+38.0,0.4087431965271192,0.5181735948193252,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB
+39.0,0.34842890201650417,0.6112040561407585,4,Parametric Divergence (BART-MNLI),Uniqueness,JointPairUCB

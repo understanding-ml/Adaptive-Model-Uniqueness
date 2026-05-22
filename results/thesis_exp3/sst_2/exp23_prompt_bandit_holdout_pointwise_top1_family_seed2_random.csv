@@ -1,0 +1,40 @@
+Seed,HoldoutTextIndex,Dose,ThetaRank,Residual,TargetOutput,PeerMixOutput,Model,Group,Method,SelectedTopKDoses,PointwiseType,ValidationMode,SourceTextIndex,SourceDose,PromptFamily
+2,34,1.0,1,0.03295380934356343,0.036655571311712265,0.0037017619681488376,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,2.0,1,0.03152967867505447,0.011799118481576443,0.04332879715663091,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,3.0,1,0.003717003463150537,0.009875107556581497,0.00615810409343096,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,4.0,1,0.009149699112158512,0.015092306770384312,0.005942607658225799,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,5.0,1,0.06303644174083338,0.13496936857700348,0.0719329268361701,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,6.0,1,0.0024967760615042765,0.01833304762840271,0.020829823689906986,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,7.0,1,0.09977795741939614,0.11184461414813995,0.012066656728743814,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,8.0,1,0.014939383298797253,0.022541873157024384,0.0076024898582271305,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,9.0,1,0.027397026249825047,0.008446888998150826,0.03584391524797587,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,10.0,1,0.07042576997625732,0.15228721499443054,0.22271298497068787,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,11.0,1,0.08652037668486584,0.04480837285518646,0.1313287495400523,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,12.0,1,0.005078436372276125,0.01374434307217598,0.008665906699899854,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,13.0,1,0.0032335502978526436,0.012645116075873375,0.009411565778020731,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,14.0,1,0.006293555705065523,0.014383370988070965,0.008089815283005442,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,16.0,1,0.00014511244862884607,0.004719717428088188,0.004864829876717034,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,17.0,1,0.01128605906795815,0.019076362252235413,0.030362421320193563,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,18.0,1,0.01664342460424461,0.012588060460984707,0.029231485065229317,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_theta_specific,family,34,15.0,style_careful
+2,34,7.0,1,0.09977795741939614,,,Architectural Divergence (RoBERTa),Low Redundancy,Random,15.0,family_max_per_pair,family,34,15.0,style_careful
+2,19,19.0,1,7.1853802907639874e-09,0.6909140348434448,0.6909140420288251,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,20.0,1,5.121320922896189e-09,0.49327772855758667,0.4932777336789076,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,21.0,1,8.971946741098691e-09,0.8629470467567444,0.8629470557286911,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,23.0,1,9.18760767465443e-09,0.8844276666641235,0.8844276758517312,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,24.0,1,4.453664881332031e-09,0.4295102655887604,0.42951027004242526,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,25.0,1,6.0867052509294695e-09,0.5878837704658508,0.5878837765525561,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,26.0,1,7.854047301414369e-09,0.755854606628418,0.7558546144824653,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,27.0,1,5.902431876592118e-09,0.5738624930381775,0.5738624989406094,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,28.0,1,6.283682352226094e-09,0.6057536005973816,0.6057536068810639,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,29.0,1,4.290665989170606e-09,0.4140186011791229,0.4140186054697889,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_theta_specific,family,19,22.0,attention_shift
+2,19,23.0,1,9.18760767465443e-09,,,Perfect Redundancy (Clone),High Redundancy,Random,22.0,family_max_per_pair,family,19,22.0,attention_shift
+2,41,30.0,1,0.047123108442085115,0.7042813897132874,0.7514044981553725,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,31.0,1,0.05292009044230417,0.9681662917137146,0.9152462012714104,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,33.0,1,0.7646510751071498,0.1341194361448288,0.8987705112519786,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,34.0,1,0.04445704736806788,0.975764811038971,0.9313077636709031,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,35.0,1,0.4687663298496352,0.10795119404792786,0.576717523897563,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,36.0,1,0.09694970584288742,0.8573403358459473,0.9542900416888347,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,37.0,1,0.05942532490931196,0.9935171604156494,0.9340918355063375,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,38.0,1,0.06932850816765024,0.7751511335372925,0.7058226253696422,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,39.0,1,0.4379646293684425,0.8910735249519348,0.4531088955834923,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_theta_specific,family,41,32.0,distractor_challenge
+2,41,33.0,1,0.7646510751071498,,,Parametric Divergence (Finetuned),Uniqueness,Random,32.0,family_max_per_pair,family,41,32.0,distractor_challenge

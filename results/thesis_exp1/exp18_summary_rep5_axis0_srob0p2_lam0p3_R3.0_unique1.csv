@@ -1,0 +1,16 @@
+unique,dim,repeat_evals,sigma_rob,lam,robust_axis_idx,robust_score,K,R,seed,baseline_disco_distance,max_residual,total_attempts,best_x_path
+1,20,5,0.2,0.3,0,penalty,200,3.0,0,31.11018926774462,3.900466359601605,40,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K200_R3.0_seed0_unique1.npy
+1,20,5,0.2,0.3,0,penalty,200,3.0,1,32.10785227882924,5.39246515326192,40,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K200_R3.0_seed1_unique1.npy
+1,20,5,0.2,0.3,0,penalty,200,3.0,2,35.32870730602443,4.7303068985406975,40,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K200_R3.0_seed2_unique1.npy
+1,20,5,0.2,0.3,0,penalty,200,3.0,3,34.50152123948377,4.1250154463919495,40,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K200_R3.0_seed3_unique1.npy
+1,20,5,0.2,0.3,0,penalty,200,3.0,4,34.36359159416178,5.42708590693083,40,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K200_R3.0_seed4_unique1.npy
+1,20,5,0.2,0.3,0,penalty,500,3.0,0,34.72347311793096,6.300192940628319,100,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K500_R3.0_seed0_unique1.npy
+1,20,5,0.2,0.3,0,penalty,500,3.0,1,31.52589033913926,6.209849273229259,100,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K500_R3.0_seed1_unique1.npy
+1,20,5,0.2,0.3,0,penalty,500,3.0,2,33.922066979377554,5.693649227244179,100,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K500_R3.0_seed2_unique1.npy
+1,20,5,0.2,0.3,0,penalty,500,3.0,3,35.73279944082011,4.929786356799255,100,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K500_R3.0_seed3_unique1.npy
+1,20,5,0.2,0.3,0,penalty,500,3.0,4,35.131011536950574,6.031408382489554,100,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K500_R3.0_seed4_unique1.npy
+1,20,5,0.2,0.3,0,penalty,1000,3.0,0,31.714472640631644,6.385370614230648,200,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K1000_R3.0_seed0_unique1.npy
+1,20,5,0.2,0.3,0,penalty,1000,3.0,1,31.9850336365824,6.368946814570807,200,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K1000_R3.0_seed1_unique1.npy
+1,20,5,0.2,0.3,0,penalty,1000,3.0,2,33.114850193530984,6.158039557475848,200,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K1000_R3.0_seed2_unique1.npy
+1,20,5,0.2,0.3,0,penalty,1000,3.0,3,35.20812079801677,6.579255659692263,200,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K1000_R3.0_seed3_unique1.npy
+1,20,5,0.2,0.3,0,penalty,1000,3.0,4,33.67378807596771,6.331084898616729,200,results/tables/exp18_best_x_rep5_axis0_srob0p2_lam0p3_dim20_K1000_R3.0_seed4_unique1.npy

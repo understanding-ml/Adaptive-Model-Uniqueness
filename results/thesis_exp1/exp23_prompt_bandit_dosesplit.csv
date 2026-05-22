@@ -1,0 +1,49 @@
+Dose,PIER,BestPIER,Count,Model,Group,Method
+0.0,0.11325263756251365,0.47951370122752185,5,Architectural Divergence (RoBERTa),Low Redundancy,Random
+0.15,0.12570488169744867,0.6234039308645192,6,Architectural Divergence (RoBERTa),Low Redundancy,Random
+0.3,0.019783011555674832,0.028914814583784865,6,Architectural Divergence (RoBERTa),Low Redundancy,Random
+0.45,0.02101669619962813,0.035859831537477516,5,Architectural Divergence (RoBERTa),Low Redundancy,Random
+0.6,0.10675271266636702,0.46189015033240954,5,Architectural Divergence (RoBERTa),Low Redundancy,Random
+0.75,0.00985137653316971,0.015123122069047867,2,Architectural Divergence (RoBERTa),Low Redundancy,Random
+0.9,0.08032024238036672,0.1976534139276206,4,Architectural Divergence (RoBERTa),Low Redundancy,Random
+1.05,0.0287121269859285,0.07477572687962553,7,Architectural Divergence (RoBERTa),Low Redundancy,Random
+0.0,0.11370874804418847,0.47951370122752185,5,Architectural Divergence (RoBERTa),Low Redundancy,UCB
+0.15,0.022980207419644648,0.033049881957575966,5,Architectural Divergence (RoBERTa),Low Redundancy,UCB
+0.3,0.10672662754383712,0.5279533058746533,6,Architectural Divergence (RoBERTa),Low Redundancy,UCB
+0.45,0.1762439652290766,0.5046959046145321,6,Architectural Divergence (RoBERTa),Low Redundancy,UCB
+0.6,0.00687189279211889,0.01253651751846941,4,Architectural Divergence (RoBERTa),Low Redundancy,UCB
+0.75,0.014900310751226538,0.02509940168465276,4,Architectural Divergence (RoBERTa),Low Redundancy,UCB
+0.9,0.04871840702383955,0.1061152808357071,5,Architectural Divergence (RoBERTa),Low Redundancy,UCB
+1.05,0.08873832015344678,0.24786517806381814,5,Architectural Divergence (RoBERTa),Low Redundancy,UCB
+0.0,8.198809944848229e-09,1.6036679012509936e-08,5,Perfect Redundancy (Clone),High Redundancy,Random
+0.15,1.632629864634083e-08,2.1217863466205245e-08,3,Perfect Redundancy (Clone),High Redundancy,Random
+0.3,1.0618447884858107e-08,1.6713877365459595e-08,2,Perfect Redundancy (Clone),High Redundancy,Random
+0.45,7.913518107471874e-09,1.835664492633171e-08,5,Perfect Redundancy (Clone),High Redundancy,Random
+0.6,1.1195876611605174e-08,2.1310208708769096e-08,9,Perfect Redundancy (Clone),High Redundancy,Random
+0.75,5.924846890881241e-09,1.8500508291996454e-08,6,Perfect Redundancy (Clone),High Redundancy,Random
+0.9,1.0607433327536331e-08,1.8816666613741262e-08,4,Perfect Redundancy (Clone),High Redundancy,Random
+1.05,1.1264887578299465e-08,1.8816666613741262e-08,6,Perfect Redundancy (Clone),High Redundancy,Random
+0.0,7.21026888750309e-09,2.1038664144157337e-08,5,Perfect Redundancy (Clone),High Redundancy,UCB
+0.15,1.4432550687892842e-08,2.0355739871469325e-08,5,Perfect Redundancy (Clone),High Redundancy,UCB
+0.3,1.1462081567215065e-08,1.771911856129904e-08,5,Perfect Redundancy (Clone),High Redundancy,UCB
+0.45,9.987465188210365e-09,2.221700357019074e-08,5,Perfect Redundancy (Clone),High Redundancy,UCB
+0.6,1.1152767698252575e-08,2.0853895388306398e-08,5,Perfect Redundancy (Clone),High Redundancy,UCB
+0.75,1.0166537101063967e-08,1.8500508291996454e-08,5,Perfect Redundancy (Clone),High Redundancy,UCB
+0.9,8.287983682686573e-09,1.6281593462341704e-08,5,Perfect Redundancy (Clone),High Redundancy,UCB
+1.05,7.405399715665339e-09,1.9536929296570804e-08,5,Perfect Redundancy (Clone),High Redundancy,UCB
+0.0,0.01637789271663365,0.047687814014137596,3,Parametric Divergence (Finetuned),Uniqueness,Random
+0.15,0.12021810828024235,0.5969164561505682,5,Parametric Divergence (Finetuned),Uniqueness,Random
+0.3,0.08845167279140914,0.6410415737843047,11,Parametric Divergence (Finetuned),Uniqueness,Random
+0.45,0.002750880551483348,0.012711189856825586,8,Parametric Divergence (Finetuned),Uniqueness,Random
+0.6,0.03284533042007658,0.06552203621616012,2,Parametric Divergence (Finetuned),Uniqueness,Random
+0.75,0.002403713248690539,0.003970444891178265,3,Parametric Divergence (Finetuned),Uniqueness,Random
+0.9,0.08662624793505666,0.27371513072187437,4,Parametric Divergence (Finetuned),Uniqueness,Random
+1.05,0.18532564487809558,0.6870186131934694,4,Parametric Divergence (Finetuned),Uniqueness,Random
+0.0,0.10256544147101453,0.5984191155912832,6,Parametric Divergence (Finetuned),Uniqueness,UCB
+0.15,0.11075009348059629,0.5969164561505682,6,Parametric Divergence (Finetuned),Uniqueness,UCB
+0.3,0.0023471153409389215,0.008097746893871521,4,Parametric Divergence (Finetuned),Uniqueness,UCB
+0.45,0.0003225112840445731,0.0008318215443378471,4,Parametric Divergence (Finetuned),Uniqueness,UCB
+0.6,0.044298975753057496,0.2062774748394987,5,Parametric Divergence (Finetuned),Uniqueness,UCB
+0.75,0.003067257659302624,0.007880746434642316,5,Parametric Divergence (Finetuned),Uniqueness,UCB
+0.9,0.0810528574052676,0.27371513072187437,5,Parametric Divergence (Finetuned),Uniqueness,UCB
+1.05,0.03430113673098521,0.07877036282098682,5,Parametric Divergence (Finetuned),Uniqueness,UCB

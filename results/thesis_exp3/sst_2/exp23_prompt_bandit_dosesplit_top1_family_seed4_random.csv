@@ -1,0 +1,121 @@
+Dose,PIER,BestPIER,Count,Model,Group,Method
+0.0,0.027240481663781863,0.15849425322221045,27,Architectural Divergence (RoBERTa),Low Redundancy,Random
+1.0,0.08052364708828323,0.46084791305903916,42,Architectural Divergence (RoBERTa),Low Redundancy,Random
+2.0,0.01666211030030012,0.2599225163478295,30,Architectural Divergence (RoBERTa),Low Redundancy,Random
+3.0,0.08006080247799342,0.39641602762363815,22,Architectural Divergence (RoBERTa),Low Redundancy,Random
+4.0,0.08401449029768944,0.35630572614342637,35,Architectural Divergence (RoBERTa),Low Redundancy,Random
+5.0,0.046390964745856855,0.3487022419302265,36,Architectural Divergence (RoBERTa),Low Redundancy,Random
+6.0,0.046678445411538844,0.3698769276974465,25,Architectural Divergence (RoBERTa),Low Redundancy,Random
+7.0,0.018459928325601015,0.09936865567637161,39,Architectural Divergence (RoBERTa),Low Redundancy,Random
+8.0,0.05798407899495624,0.39439432435750765,30,Architectural Divergence (RoBERTa),Low Redundancy,Random
+9.0,0.049003332764736986,0.33510671415489646,34,Architectural Divergence (RoBERTa),Low Redundancy,Random
+10.0,0.08346059804541513,0.3238494963554639,28,Architectural Divergence (RoBERTa),Low Redundancy,Random
+11.0,0.054704101401392216,0.3511485676654911,29,Architectural Divergence (RoBERTa),Low Redundancy,Random
+12.0,0.05568104975291112,0.4136749786340801,31,Architectural Divergence (RoBERTa),Low Redundancy,Random
+13.0,0.0667764440296434,0.5081838851582875,25,Architectural Divergence (RoBERTa),Low Redundancy,Random
+14.0,0.05998075145344698,0.382229291917217,28,Architectural Divergence (RoBERTa),Low Redundancy,Random
+15.0,0.03702489875710533,0.253694738626964,23,Architectural Divergence (RoBERTa),Low Redundancy,Random
+16.0,0.034366653539463006,0.3086438953246199,33,Architectural Divergence (RoBERTa),Low Redundancy,Random
+17.0,0.04223409994994441,0.6183255704453319,22,Architectural Divergence (RoBERTa),Low Redundancy,Random
+18.0,0.03015501680953042,0.2671886773149392,33,Architectural Divergence (RoBERTa),Low Redundancy,Random
+19.0,0.034575515445822505,0.44560534321587064,36,Architectural Divergence (RoBERTa),Low Redundancy,Random
+20.0,0.040471730232280144,0.31772512057352076,36,Architectural Divergence (RoBERTa),Low Redundancy,Random
+21.0,0.036353799467530055,0.356593960557292,38,Architectural Divergence (RoBERTa),Low Redundancy,Random
+22.0,0.043102992544305864,0.30393691294421277,25,Architectural Divergence (RoBERTa),Low Redundancy,Random
+23.0,0.034697163535234166,0.283604528339356,33,Architectural Divergence (RoBERTa),Low Redundancy,Random
+24.0,0.029645705485778405,0.3077760437942033,27,Architectural Divergence (RoBERTa),Low Redundancy,Random
+25.0,0.016177790893616355,0.12742091125553523,33,Architectural Divergence (RoBERTa),Low Redundancy,Random
+26.0,0.048646699316246184,0.410599448427021,34,Architectural Divergence (RoBERTa),Low Redundancy,Random
+27.0,0.01299608968739596,0.08541746229944658,23,Architectural Divergence (RoBERTa),Low Redundancy,Random
+28.0,0.07676252524957212,0.5469264277469491,30,Architectural Divergence (RoBERTa),Low Redundancy,Random
+29.0,0.023265203325163478,0.17849807975518517,31,Architectural Divergence (RoBERTa),Low Redundancy,Random
+30.0,0.06303299411207233,0.3100762850844212,24,Architectural Divergence (RoBERTa),Low Redundancy,Random
+31.0,0.020837109902746894,0.23382723692327545,26,Architectural Divergence (RoBERTa),Low Redundancy,Random
+32.0,0.018038873042876914,0.272062460269723,33,Architectural Divergence (RoBERTa),Low Redundancy,Random
+33.0,0.009470624235456346,0.07044881391977188,29,Architectural Divergence (RoBERTa),Low Redundancy,Random
+34.0,0.007390093444140866,0.05064755558595624,31,Architectural Divergence (RoBERTa),Low Redundancy,Random
+35.0,0.04653104128902698,0.45310026147840987,27,Architectural Divergence (RoBERTa),Low Redundancy,Random
+36.0,0.07978148695413648,0.4721468441326594,37,Architectural Divergence (RoBERTa),Low Redundancy,Random
+37.0,0.04652972901526097,0.48351448117029044,22,Architectural Divergence (RoBERTa),Low Redundancy,Random
+38.0,0.06613448259715042,0.3920212856714771,23,Architectural Divergence (RoBERTa),Low Redundancy,Random
+39.0,0.07560193625122746,0.6179926783902612,30,Architectural Divergence (RoBERTa),Low Redundancy,Random
+0.0,8.726113277724408e-09,2.587436143119959e-08,21,Perfect Redundancy (Clone),High Redundancy,Random
+1.0,1.2558651494868914e-08,2.5840315776015643e-08,37,Perfect Redundancy (Clone),High Redundancy,Random
+2.0,8.255533457078116e-09,2.5770149625348182e-08,24,Perfect Redundancy (Clone),High Redundancy,Random
+3.0,7.916221875633614e-09,2.5592790331430137e-08,35,Perfect Redundancy (Clone),High Redundancy,Random
+4.0,1.0595278130281622e-08,2.6200625086181262e-08,26,Perfect Redundancy (Clone),High Redundancy,Random
+5.0,1.2719437547659141e-08,2.4361080874779617e-08,25,Perfect Redundancy (Clone),High Redundancy,Random
+6.0,1.2844643604689336e-08,2.550545874502319e-08,28,Perfect Redundancy (Clone),High Redundancy,Random
+7.0,1.0158324881607317e-08,2.549202920976157e-08,33,Perfect Redundancy (Clone),High Redundancy,Random
+8.0,9.24321393783819e-09,2.5586946283961964e-08,26,Perfect Redundancy (Clone),High Redundancy,Random
+9.0,1.2106656172942524e-08,2.479773958397047e-08,24,Perfect Redundancy (Clone),High Redundancy,Random
+10.0,1.078897520751292e-08,2.661416698135355e-08,34,Perfect Redundancy (Clone),High Redundancy,Random
+11.0,1.548252009108419e-08,2.627291206813709e-08,27,Perfect Redundancy (Clone),High Redundancy,Random
+12.0,1.0263336111985516e-08,2.5415537618922457e-08,31,Perfect Redundancy (Clone),High Redundancy,Random
+13.0,1.0292878460043614e-08,2.3602897192276373e-08,18,Perfect Redundancy (Clone),High Redundancy,Random
+14.0,1.3635308726066357e-08,2.6644047745882915e-08,34,Perfect Redundancy (Clone),High Redundancy,Random
+15.0,1.0326103036875645e-08,2.6369483319133025e-08,32,Perfect Redundancy (Clone),High Redundancy,Random
+16.0,1.0179743095068399e-08,2.6874571457113916e-08,31,Perfect Redundancy (Clone),High Redundancy,Random
+17.0,1.3085460182587544e-08,2.8093294385245215e-08,33,Perfect Redundancy (Clone),High Redundancy,Random
+18.0,1.2113049490650462e-08,2.4983910773546114e-08,29,Perfect Redundancy (Clone),High Redundancy,Random
+19.0,7.31188666739428e-09,2.2288975998208116e-08,23,Perfect Redundancy (Clone),High Redundancy,Random
+20.0,1.0775100209361546e-08,2.729297939735309e-08,24,Perfect Redundancy (Clone),High Redundancy,Random
+21.0,1.0437296938603131e-08,2.176898261652127e-08,29,Perfect Redundancy (Clone),High Redundancy,Random
+22.0,1.1120716190910653e-08,2.3279167704615134e-08,46,Perfect Redundancy (Clone),High Redundancy,Random
+23.0,1.0976601975393513e-08,2.3209950295033366e-08,34,Perfect Redundancy (Clone),High Redundancy,Random
+24.0,1.2838898495935526e-08,2.5304685957738826e-08,28,Perfect Redundancy (Clone),High Redundancy,Random
+25.0,1.298144351654063e-08,2.758380969469787e-08,34,Perfect Redundancy (Clone),High Redundancy,Random
+26.0,1.2987689793196528e-08,2.6195084656954748e-08,23,Perfect Redundancy (Clone),High Redundancy,Random
+27.0,1.0777669617878516e-08,2.3933223569638784e-08,24,Perfect Redundancy (Clone),High Redundancy,Random
+28.0,1.3760790772490705e-08,2.7673674518613467e-08,32,Perfect Redundancy (Clone),High Redundancy,Random
+29.0,7.972357389529616e-09,2.6538162722911096e-08,20,Perfect Redundancy (Clone),High Redundancy,Random
+30.0,1.00814851268703e-08,2.3643069169132502e-08,28,Perfect Redundancy (Clone),High Redundancy,Random
+31.0,1.2001680302353712e-08,2.7507690569805732e-08,30,Perfect Redundancy (Clone),High Redundancy,Random
+32.0,1.0658697718802296e-08,2.860172909624481e-08,36,Perfect Redundancy (Clone),High Redundancy,Random
+33.0,1.4439074257291193e-08,2.859187895470905e-08,26,Perfect Redundancy (Clone),High Redundancy,Random
+34.0,1.4737485603609572e-08,2.6565528138400296e-08,34,Perfect Redundancy (Clone),High Redundancy,Random
+35.0,9.897411714273238e-09,2.628989653752356e-08,39,Perfect Redundancy (Clone),High Redundancy,Random
+36.0,1.3963674992331643e-08,2.551451722121456e-08,32,Perfect Redundancy (Clone),High Redundancy,Random
+37.0,6.483323322648005e-09,2.3267514082103702e-08,32,Perfect Redundancy (Clone),High Redundancy,Random
+38.0,1.0255769108141416e-08,2.3763790379938143e-08,34,Perfect Redundancy (Clone),High Redundancy,Random
+39.0,1.2434197002208037e-08,2.758270550851094e-08,44,Perfect Redundancy (Clone),High Redundancy,Random
+0.0,0.03129648020991248,0.31760679824316096,33,Parametric Divergence (Finetuned),Uniqueness,Random
+1.0,0.18252425896484126,0.7273302700565992,31,Parametric Divergence (Finetuned),Uniqueness,Random
+2.0,0.08899158022926129,0.7913461056422738,34,Parametric Divergence (Finetuned),Uniqueness,Random
+3.0,0.03678981276119635,0.3182149347135035,25,Parametric Divergence (Finetuned),Uniqueness,Random
+4.0,0.06068896028824272,0.8764263288471258,45,Parametric Divergence (Finetuned),Uniqueness,Random
+5.0,0.09001968655792539,0.5021748814707199,38,Parametric Divergence (Finetuned),Uniqueness,Random
+6.0,0.11236838793750159,0.6132287109477994,28,Parametric Divergence (Finetuned),Uniqueness,Random
+7.0,0.10413571056428185,0.5479236063982849,31,Parametric Divergence (Finetuned),Uniqueness,Random
+8.0,0.12547917945716516,0.6288667025272532,28,Parametric Divergence (Finetuned),Uniqueness,Random
+9.0,0.024748386199595504,0.0695811801531097,22,Parametric Divergence (Finetuned),Uniqueness,Random
+10.0,0.16482254049781933,0.9092652519100516,31,Parametric Divergence (Finetuned),Uniqueness,Random
+11.0,0.046268410367008336,0.5134982019889377,29,Parametric Divergence (Finetuned),Uniqueness,Random
+12.0,0.051154287548724274,0.6026849734590428,35,Parametric Divergence (Finetuned),Uniqueness,Random
+13.0,0.04243613078405992,0.40902571729701576,29,Parametric Divergence (Finetuned),Uniqueness,Random
+14.0,0.08796774917599054,0.6539240241000824,26,Parametric Divergence (Finetuned),Uniqueness,Random
+15.0,0.08731959227173516,0.5467854308475135,29,Parametric Divergence (Finetuned),Uniqueness,Random
+16.0,0.0528079304093998,0.5369625817564606,29,Parametric Divergence (Finetuned),Uniqueness,Random
+17.0,0.10397466905101486,0.7683533006872034,28,Parametric Divergence (Finetuned),Uniqueness,Random
+18.0,0.09881330530936003,0.6522647472215486,28,Parametric Divergence (Finetuned),Uniqueness,Random
+19.0,0.1052588971015677,0.8078042972426792,28,Parametric Divergence (Finetuned),Uniqueness,Random
+20.0,0.1526199873145979,0.6904098604602411,25,Parametric Divergence (Finetuned),Uniqueness,Random
+21.0,0.04298242339834827,0.20500324711340479,27,Parametric Divergence (Finetuned),Uniqueness,Random
+22.0,0.054753410770057825,0.16915026709305014,32,Parametric Divergence (Finetuned),Uniqueness,Random
+23.0,0.03847465169418739,0.16342749482289864,41,Parametric Divergence (Finetuned),Uniqueness,Random
+24.0,0.03678116597344516,0.17988907011824018,35,Parametric Divergence (Finetuned),Uniqueness,Random
+25.0,0.10267353300417786,0.7398297313102961,27,Parametric Divergence (Finetuned),Uniqueness,Random
+26.0,0.18226747075788072,0.9093357268168122,22,Parametric Divergence (Finetuned),Uniqueness,Random
+27.0,0.1376767800782865,0.7833603932978673,27,Parametric Divergence (Finetuned),Uniqueness,Random
+28.0,0.1394751087772028,0.8162898265688945,41,Parametric Divergence (Finetuned),Uniqueness,Random
+29.0,0.0690451279800077,0.6694505614691293,23,Parametric Divergence (Finetuned),Uniqueness,Random
+30.0,0.0928717537897042,0.6272115923702637,28,Parametric Divergence (Finetuned),Uniqueness,Random
+31.0,0.06359714980081684,0.38422175539553244,25,Parametric Divergence (Finetuned),Uniqueness,Random
+32.0,0.03457133708262888,0.2142856375976011,20,Parametric Divergence (Finetuned),Uniqueness,Random
+33.0,0.1322471008554322,0.8703069340113792,38,Parametric Divergence (Finetuned),Uniqueness,Random
+34.0,0.09617558375904665,0.7757944638971672,28,Parametric Divergence (Finetuned),Uniqueness,Random
+35.0,0.061269449403037135,0.6566557189592521,39,Parametric Divergence (Finetuned),Uniqueness,Random
+36.0,0.09143809876346111,0.4447930234688276,25,Parametric Divergence (Finetuned),Uniqueness,Random
+37.0,0.06176179597835573,0.8857288849950307,38,Parametric Divergence (Finetuned),Uniqueness,Random
+38.0,0.07045498064785752,0.7183926387065597,22,Parametric Divergence (Finetuned),Uniqueness,Random
+39.0,0.06294351807741892,0.6420078399256358,30,Parametric Divergence (Finetuned),Uniqueness,Random
