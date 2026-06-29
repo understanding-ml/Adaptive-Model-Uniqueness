@@ -23,14 +23,15 @@ import hashlib
 import re
 
 # Ensure we can import the local `isqed` package
-ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.append(ROOT_DIR)
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from isqed.real_world import HuggingFaceWrapper
 from isqed.geometry import DISCOSolver
 from isqed.ecosystem import Ecosystem
 
-# Import stable seed helper
+# Import stable seed helper from experiments/utils.py
+this_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(this_dir)
 from experiments.utils import make_stable_seed
 
 # Discrete prompt-edit action ids. 0 means no edit; 1--39 are prompt-edit operators.
@@ -370,18 +371,18 @@ def run_bert_experiment(
     else:
         print("Warning: No DistilBERT peer found for redundant target.")
 
-    # Case C: BART MNLI target (parametric / training divergence)
+    # Case C: DistilBERT MNLI fine-tuned variant (near-duplicate / contamination target)
     try:
-        bart_mnli = HuggingFaceWrapper("facebook/bart-large-mnli", device)
+        distil_mnli_variant = HuggingFaceWrapper("typeform/distilbert-base-uncased-mnli", device)
         targets.append(
             {
-                "model": bart_mnli,
-                "name": "Parametric Divergence (BART-MNLI)",
+                "model": distil_mnli_variant,
+                "name": "Parametric Divergence (DistilBERT-MNLI-Variant)",
                 "type": "Uniqueness",
             }
         )
     except Exception as e:
-        print(f"Warning: BART MNLI target failed to load: {e}")
+        print(f"Warning: DistilBERT MNLI variant target failed to load: {e}")
 
     if not targets:
         print("No targets loaded. Abort.")
@@ -1051,7 +1052,7 @@ def run_bert_experiment(
     # =====================================================================
     # 5. Save results
     # =====================================================================
-    output_dir = os.path.join(ROOT_DIR, "results", "thesis_exp3", "mnli")
+    output_dir = "results/thesis_exp4/mnli"
     os.makedirs(output_dir, exist_ok=True)
 
     suffix = "" if top_k_holdout == TOP_K_HOLDOUT else f"_top{top_k_holdout}"

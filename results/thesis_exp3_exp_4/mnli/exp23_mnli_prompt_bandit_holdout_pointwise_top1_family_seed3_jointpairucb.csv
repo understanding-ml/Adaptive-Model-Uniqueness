@@ -1,0 +1,55 @@
+Seed,HoldoutTextIndex,Dose,ThetaRank,Residual,TargetOutput,PeerMixOutput,Model,Group,Method,SelectedTopKDoses,PointwiseType,ValidationMode,SourceTextIndex,SourceDose,PromptFamily
+3,3,2.0,1,0.3814665823364598,0.9342924952507019,0.5528259129142421,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,3.0,1,0.020965651535209462,0.8515341877937317,0.8724998393289412,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,4.0,1,0.2548373932262744,0.9463212490081787,0.6914838557819043,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,5.0,1,0.6847858229430992,0.9614163041114807,0.27663048116838157,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,6.0,1,0.6518320855985831,0.9024397730827332,0.25060768748415013,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,7.0,1,0.533926123035059,0.8633044958114624,0.32937837277640336,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,8.0,1,0.11511231392608445,0.9137235283851624,0.7986112144590779,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,9.0,1,0.3314123447179149,0.8938654065132141,0.5624530617952992,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,10.0,1,0.02625498277520566,0.8387446999549866,0.8649996827301922,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,11.0,1,0.5330718249099655,0.9444190859794617,0.41134726106949615,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,12.0,1,0.5101521795892457,0.9042659997940063,0.3941138202047606,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,13.0,1,0.3144257179730844,0.6417325139045715,0.32730679593148715,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,14.0,1,0.0662601291586099,0.7677546143531799,0.8340147435117898,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,15.0,1,0.5270238193268347,0.9650338888168335,0.43801006948999877,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,16.0,1,0.48582159075610915,0.9329281449317932,0.44710655417568407,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,17.0,1,0.3958568231397851,0.9339959621429443,0.5381391390031592,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,18.0,1,0.3341333021355736,0.9464079737663269,0.6122746716307533,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_theta_specific,family,3,1.0,style_careful
+3,3,5.0,1,0.6847858229430992,,,Architectural Divergence (DeBERTa-MNLI),Low Redundancy,JointPairUCB,1.0,family_max_per_pair,family,3,1.0,style_careful
+3,44,2.0,1,2.734058136139028e-10,0.005901147611439228,0.0059011473380334144,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,3.0,1,1.440145572240148e-10,0.008323416113853455,0.008323415969838897,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,4.0,1,2.971823915426386e-11,0.00585524644702673,0.005855246476744969,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,5.0,1,3.4829526415758316e-10,0.008777863346040249,0.008777862997744985,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,6.0,1,4.4989858713484487e-10,0.006658547092229128,0.006658546642330541,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,7.0,1,9.862415745187647e-11,0.028362268581986427,0.028362268680610585,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,8.0,1,5.321653439097074e-10,0.004992648959159851,0.004992648426994507,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,9.0,1,2.9397586275015097e-10,0.006795314606279135,0.0067953149002549975,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,10.0,1,2.3283899634740646e-10,0.007370651233941317,0.00737065100110232,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,11.0,1,7.144987379525958e-11,0.009363418444991112,0.009363418516440986,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,12.0,1,2.2701186330048584e-10,0.007445717696100473,0.00744571746908861,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,13.0,1,1.2701514579688267e-10,0.0069731068797409534,0.006973106752725808,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,14.0,1,3.249666872401358e-10,0.008611590601503849,0.008611590276537162,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,15.0,1,2.7955375427740625e-10,0.0069745867513120174,0.006974586471758263,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,16.0,1,1.7118675921246052e-10,0.007889093831181526,0.007889094002368285,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,17.0,1,2.0341290110637011e-10,0.007839481346309185,0.007839481142896284,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,18.0,1,7.503700785727041e-11,0.008719229139387608,0.0087192290643506,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_theta_specific,family,44,1.0,style_careful
+3,44,8.0,1,5.321653439097074e-10,,,Perfect Redundancy (Clone),High Redundancy,JointPairUCB,1.0,family_max_per_pair,family,44,1.0,style_careful
+3,31,1.0,1,0.10642669426415646,0.2795194089412689,0.17309271467711246,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,2.0,1,0.36635014592728077,0.545312762260437,0.17896261633315627,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,3.0,1,0.9382005312449955,0.9910348057746887,0.05283427452969321,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,4.0,1,0.7403088615706701,0.8493954539299011,0.10908659235923096,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,5.0,1,0.16345684798682186,0.37997928261756897,0.2165224346307471,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,6.0,1,0.8455578735135671,0.9701914191246033,0.12463354561103616,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,7.0,1,0.0325867863643582,0.017200497910380363,0.049787284274738566,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,8.0,1,0.09911981517046922,0.03897278383374214,0.13809259900421136,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,9.0,1,0.6845141334683839,0.8485017418861389,0.1639876084177551,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,10.0,1,0.8669341233612566,0.9131349921226501,0.046200868761393565,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,11.0,1,0.2607872629472857,0.006655184086412191,0.2674424470336979,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,12.0,1,0.0063240416651189485,0.10762917995452881,0.11395322161964776,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,14.0,1,0.2361608845141957,0.41548097133636475,0.17932008682216904,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,15.0,1,0.15076160831562663,0.015795482322573662,0.1665570906382003,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,16.0,1,0.6614254332246113,0.9892304539680481,0.32780502074343676,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,17.0,1,0.058058777433753914,0.06152498349547386,0.11958376092922778,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,18.0,1,0.13643832145888252,0.2598262131214142,0.12338789166253167,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_theta_specific,family,31,13.0,style_careful
+3,31,3.0,1,0.9382005312449955,,,Parametric Divergence (DistilBERT-MNLI-Variant),Uniqueness,JointPairUCB,13.0,family_max_per_pair,family,31,13.0,style_careful
