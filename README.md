@@ -37,11 +37,12 @@ notebooks/thesis/
     thesis_exp2_vision.ipynb
     thesis_exp3_sst2.ipynb
     thesis_exp3_mnli.ipynb
+    thesis_exp4_model_stealing_contamination.ipynb
 
 results/
     thesis_exp1/
     thesis_exp2/
-    thesis_exp3/
+    thesis_exp3_exp4/
 
 isqed/
     geometry.py
@@ -92,6 +93,40 @@ Main methods:
 Additional robustness mechanism:
 - support-set robustness check
 - family-level validation
+  
+## Experiment 4 – Model Stealing & Contamination Detection
+
+Goal:
+
+- Evaluate whether Adaptive ISQED improves detection of near-duplicate models
+- Compare search effectiveness under different redundancy levels (clone vs fine-tuned target)
+
+Controlled targets:
+
+- Perfect Redundancy (Clone)
+- Parametric Divergence (Fine-tuned Variant)
+
+Datasets:
+
+- SST-2
+- MNLI
+
+Main methods:
+
+- Random
+- JointPairUCB
+
+Evaluation:
+
+- Search efficiency under matched query cost
+- Family holdout residual distribution
+- Maximum holdout residual comparison
+
+Expected observation:
+
+- Clone targets remain nearly indistinguishable from peer models
+- Fine-tuned variants exhibit a small set of transferable high-residual contexts
+- Adaptive search discovers these contexts more efficiently than random search
 
 ## Environment
 
